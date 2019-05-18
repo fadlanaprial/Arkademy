@@ -9,3 +9,6 @@ Kegunaan JSON (JavaScript Object Notation)
 3. Sintaksnya sangat sederhana dan jelas(dibanding XML)
 4. Dapat dikenalin dan dikomsumsi banyak bahasa pemrograman.
 5. Digunakan untuk file konfigurasi (tetapi tidak support sintaks komentar).
+
+
+ 
