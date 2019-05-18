@@ -1,6 +1,6 @@
 # Arkademy
-*Sublime Text adalah sebuah teks editor yang sangat canggih untuk coding, markup dan lain-lain
-*Bahasa Pemograman yang saya gunakan adalah PHP
+Sublime Text adalah sebuah teks editor yang sangat canggih untuk coding, markup dan lain-lain
+Bahasa Pemograman yang saya gunakan adalah PHP
 ==============================================================================================================================
 Rest (Respresentational State Transfer) API (Application Programming Interface) adalah Rest adalah aturan dan gaya perancangan dan API penghubungnya sehingga sebuah webservice bisa melakukan request & response data yang dikirim/diterima berupa JSON.
 
