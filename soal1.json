@@ -1,0 +1,24 @@
+
+{
+	"nama"	: "fadlan",
+	"address"	: "vila nusa indah II bloku10 no.2",
+	"hobbies"	: ["coding", "gaming"],
+
+	"is_married"	: false,
+	"school" : {
+		"highSchool"	: "SMK Telkom Sandhy Putra Medan",
+		"university"	: "STMIK Mikroskil Medan"},
+
+	"skills" : 
+			{
+				"Name"	: ["coding"],
+			
+			
+				"score"	: ["10"]
+			}
+		
+
+	
+
+}
+
